@@ -1,0 +1,56 @@
+{
+  "_from": "https://www.atom.io/api/packages/html-includes/versions/0.3.0/tarball",
+  "_id": "html-includes@0.3.0",
+  "_inBundle": false,
+  "_integrity": "sha512-rJytcz+5FnHutEpTyq/rIPev1y5CDkyx7ZpnokMvN0Mkf3IDmasmTMvNwRt8gnoFgUKbVybGXEy09983bYLWSA==",
+  "_location": "/html-includes",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/html-includes/versions/0.3.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/html-includes/versions/0.3.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/html-includes/versions/0.3.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/html-includes/versions/0.3.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/html-includes/versions/0.3.0/tarball",
+  "_shasum": "54a647ed3b23d6aa5f4e6db98df94fc0f125bd76",
+  "_spec": "https://www.atom.io/api/packages/html-includes/versions/0.3.0/tarball",
+  "_where": "C:\\Users\\ereyes\\AppData\\Local\\Temp\\apm-install-dir-120031-11472-1kityvj.wsgf",
+  "bugs": {
+    "url": "https://github.com/2blane/html-includes/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.5",
+    "event-kit": "^1.2.0",
+    "node-uuid": "^1.4.8"
+  },
+  "deprecated": false,
+  "description": "Include HTML files in other HTML files and generate the resulting files on-save.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/2blane/html-includes#readme",
+  "keywords": [
+    "Include HTML",
+    "HTML",
+    "Include",
+    "Compile",
+    "Compiler",
+    "Save",
+    "Watcher",
+    "Watch"
+  ],
+  "license": "MIT",
+  "main": "./lib/html-includes",
+  "name": "html-includes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2blane/html-includes.git"
+  },
+  "version": "0.3.0"
+}
